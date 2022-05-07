@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.1
+Created-By: 1.8.0_20-ea-b13 (Oracle Corporation)
+MIDlet-1: 2048,/game2048/icon.png,game2048.Game2048
+MIDlet-Vendor: Jan Smucr
+MIDlet-Version: 1.04
+MIDlet-Name: 2048
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: 2048 game clone for Java ME based cell phones
+MIDlet-Jar-URL: 2048.jar
+MIDlet-Info-URL: https://github.com/jsmucr/2048-for-J2ME
+Content-Folder: Games
+MIDlet-Jar-Size: 96350
